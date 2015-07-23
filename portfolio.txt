@@ -1,0 +1,35 @@
+http://www.smartnanotechnologies.com.pl/
+Strona internetowa stworzona dla firmy technologicznej w oparciu o firmowy system CMS
+PANELplus 2.0. Dedykowany szablon graficzny na bazie Skeleton.
+http://www.artplus.pl/
+Nowa strona firmowa oparta o system CMS PANELplus 2.0. Dedykowany szablon graficzny
+oparty o framework Skeleton.
+http://banos.eu/
+Strona internetowa austriackiego producenta napojów energetycznych oparta na systemie
+PANELplus 2.0, wraz z dedykowanym modułem zarządzania zamówieniami. Szablon
+graficzny oparty na Bootstrap.
+http://www.neo-traveller.eu/
+Strona internetowa producenta i dystrybutora samochodów kempingowych. Szablon
+graficzny oparty o Bootstrap, dostosowany do systemu PANELplus 2.0. Rozbudowany
+moduł konfiguracji wyposażenia samochodu (wymaga rejestracji), oraz wyszukiwania
+dealerów.
+- możliwość definiowania elementów wyposażenia oraz zależności między nimi w panelu
+administracyjnym,
+- możliwość rejestracji na stronie i skomponowania wyposażenia samochodu z
+uwzględnieniem uprzednio zdefiniowanych relacji poszczególnych elementów,
+- podgląd aktywności zarejestrowanych użytkowników,
+- eksport danych do plików XLS, PDF.
+http://jeleniaplast.com/Katalog/new_app/
+Aplikacja zintegrowana z istniejącym systemem CRM firmy JeleniaPlast. Umożliwia
+tworzenie interaktywnych katalogów produktów na podstawie przesłanych zdjęć i
+szczegółowych parametrów z bazy danych.
+- automatyczne skalowanie przesyłanych wiązkowo obrazów,
+- definiowanie współrzędnych wierzchołków map obrazu (obrysowywanie obiektu na
+zdjęciu),
+- przypisywanie każdej zdefiniowanej mapie obrazu produktu/-ów z bazy danych, oraz
+wykadrowanego powiększenia.
+Lista dostępnych katalogów: http://jeleniaplast.com/Katalog/new_app/show/
+http://harmonyworks.pl/
+Strona oparta na systemie Wordpress. Szablon graficzny na bazie Bootstrap.
+http://dariadrozd.agmk.net/
+Strona oparta na systemie Wordpress. Szablon graficzny na bazie Skeleton.
